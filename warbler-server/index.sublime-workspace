@@ -1,0 +1,771 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"section",
+				"sectionOne"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"tran",
+				"transitionOut"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"about",
+				"about"
+			],
+			[
+				"quesr",
+				"querySelectorAll"
+			],
+			[
+				"inne",
+				"innerHeight\t(jacks.js)"
+			],
+			[
+				"sections",
+				"sectionsY"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"get",
+				"getBoundingClientRect\t(jacks.js)"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"que",
+				"querySelectorAll"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"events",
+				"events"
+			],
+			[
+				"Reac",
+				"ReactDOMFactories"
+			],
+			[
+				"Rea",
+				"ReactDOMFactories"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"node",
+				"nodeSelection"
+			],
+			[
+				"geo",
+				"geoData"
+			],
+			[
+				"popula",
+				"populationDensity\t(index.html)"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"quate",
+				"quaterTallies"
+			],
+			[
+				"min",
+				"minYear"
+			],
+			[
+				"year",
+				"yearData"
+			],
+			[
+				"contine",
+				"continents"
+			],
+			[
+				"contin",
+				"continents"
+			],
+			[
+				"bir",
+				"birthData"
+			],
+			[
+				"text",
+				"text-anchor"
+			],
+			[
+				"strok",
+				"stroke-dasharray\tproperty"
+			],
+			[
+				"score",
+				"scoreBoard"
+			],
+			[
+				"time",
+				"timeUp"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"dis",
+				"displayEndTime"
+			],
+			[
+				"end",
+				"endTime"
+			],
+			[
+				"displ",
+				"displayTimeLeft"
+			],
+			[
+				"ex",
+				"extremePovertyRate"
+			],
+			[
+				"nav",
+				"navCoords"
+			],
+			[
+				"dropdo",
+				"dropdownCoords"
+			],
+			[
+				"handle",
+				"handleEnter"
+			],
+			[
+				"birth",
+				"birthData2011"
+			],
+			[
+				"bith",
+				"birthData2011"
+			],
+			[
+				"spe",
+				"speechSynthesis"
+			],
+			[
+				"bar",
+				"barPadding"
+			],
+			[
+				"link",
+				"linkCoords"
+			],
+			[
+				"high",
+				"highlight"
+			],
+			[
+				"Speech",
+				"SpeechRecognition"
+			],
+			[
+				"input",
+				"inputValue"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"remove",
+				"removeBtn"
+			],
+			[
+				"seconds",
+				"secondsLeft"
+			],
+			[
+				"random",
+				"randomValue"
+			],
+			[
+				"note",
+				"notePreview"
+			],
+			[
+				"not",
+				"notePreview"
+			],
+			[
+				"offset",
+				"offsetHeight"
+			],
+			[
+				"image",
+				"imageBottom"
+			],
+			[
+				"slid",
+				"sliderInAt"
+			],
+			[
+				"slider",
+				"sliderImage"
+			],
+			[
+				"prog",
+				"progressBar"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"checkb",
+				"checkboxes"
+			],
+			[
+				"line",
+				"lineWidth"
+			],
+			[
+				"offSet",
+				"offsetY"
+			],
+			[
+				"open",
+				"open-active"
+			],
+			[
+				"ordere",
+				"orderedAge"
+			],
+			[
+				"first",
+				"firstPerson"
+			],
+			[
+				"minutes",
+				"minutesDegrees"
+			],
+			[
+				"minute",
+				"minutesDegrees"
+			],
+			[
+				"seon",
+				"secondsDegrees"
+			],
+			[
+				"eas",
+				"ease-in"
+			],
+			[
+				"transition",
+				"transition-timing-function"
+			],
+			[
+				"transform",
+				"transform-origin"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"square",
+				"squareRoot"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"mode",
+				"modeButtons"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"pick",
+				"pickColor"
+			],
+			[
+				"picked",
+				"pickedColor"
+			],
+			[
+				"gene",
+				"generateRandomColors"
+			],
+			[
+				"clicke",
+				"clickedColor"
+			],
+			[
+				"color",
+				"colorDisplay"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"winn",
+				"winningScore"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"age",
+				"ageInDays"
+			],
+			[
+				"second",
+				"secondName"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"username",
+				"username"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"syntax css",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"intelisen",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babel s",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"material",
+				"Material Theme: Extras"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packageman",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"sublimelinter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"linting",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 200.0,
+		"history":
+		[
+			"clear()",
+			"cd",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Streamlabs Chatbot/Services/Scripts/CastorrsLazyPack/motivate.txt",
+		"/C/Users/rchwr/OneDrive/Documents/master of files.js",
+		"/D/Streamlabs Chatbot/Services/Scripts/CastorrsLazyPack/jokes.txt",
+		"/D/Streamlabs Chatbot/Services/Scripts/CastorrsLazyPack/questions.txt",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/redux-todo/script.js",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/redux-todo/index.html",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/redux-counter/index.html",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/redux-counter/script.js",
+		"/C/Users/rchwr/OneDrive/Documents/index.html",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/rchwrght.github.io/projects/jsTransitions/index.js",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/rchwrght.github.io/projects/jsTransitions/index.html",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/rchwrght.github.io/projects/jsTransitions/index.css",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/rchwrght.github.io/projects/giphy/giphy.html",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/rchwrght.github.io/index.html",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/rchwrght.github.io/js/index.js",
+		"/D/Repos/JavaScript30/JavaScript30-Challenge/JavaScript30-master/13 - Slide in on Scroll/index-FINISHED.html",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/rchwrght.github.io/stylesheets/index.css",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/rchwrght.github.io/projects/giphy/css/giphy.css",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/rchwrght.github.io/projects/giphy/js/giphy.js",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/rchwrght.github.io/projects/jacksbar/js/jacks.js",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/rchwrght.github.io/projects/BlockBreaker2.1/Block Breaker 2.0 WebBuild/Block Breaker 2.0 WebBuild.html",
+		"/C/Users/rchwr/OneDrive/Documents/GitHub/rchwrght.github.io/projects/jacksbar/index.html",
+		"/D/test.cs",
+		"/D/Twitch Icons/spidey alert.mp4",
+		"/C/Users/rchwr/Downloads/298058775-148075307-04b67f3a-d3ab-496d-96d0-6c2fd32147d8.mp4",
+		"/C/Users/rchwr/Downloads/AWDB/React/first-component.css",
+		"/C/Users/rchwr/Downloads/AWDB/React/first-component4-start.html",
+		"/C/Users/rchwr/Downloads/AWDB/React/firstComponent/first-component2-start.html",
+		"/C/Users/rchwr/Downloads/AWDB/React/first-component2-start.html",
+		"/C/Users/rchwr/Downloads/first-component2-start.html",
+		"/C/Users/rchwr/Downloads/first-component1-start.html",
+		"/C/Users/rchwr/Downloads/AWDB/d3-final-project-part-1/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/d3-final-project-part-1/style.css",
+		"/C/Users/rchwr/Downloads/AWDB/d3-final-project-part-1/pie.js",
+		"/C/Users/rchwr/Downloads/AWDB/d3-final-project-part-1/map.js",
+		"/C/Users/rchwr/Downloads/AWDB/d3-final-project-part-1/bar.js",
+		"/C/Users/rchwr/Downloads/AWDB/d3-final-project-part-1/index.html",
+		"/C/Users/rchwr/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/rchwr/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/rchwr/Downloads/AWDB/nodes-in-force-directed-graphs/style.css",
+		"/C/Users/rchwr/Downloads/AWDB/nodes-in-force-directed-graphs/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/nodes-in-force-directed-graphs/index.html",
+		"/C/Users/rchwr/Downloads/AWDB/d3-map-starter/country_data.csv",
+		"/C/Users/rchwr/Downloads/AWDB/d3-map-starter/style.css",
+		"/C/Users/rchwr/Downloads/AWDB/d3-map-starter/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/d3-map-starter/index.html",
+		"/C/Users/rchwr/Downloads/AWDB/intro-to-topojson/index.html",
+		"/C/Users/rchwr/Downloads/AWDB/intro-to-topojson/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/intro-to-topojson/sample_geo.json",
+		"/C/Users/rchwr/Downloads/AWDB/intro-to-topojson/sample_topo.json",
+		"/C/Users/rchwr/Downloads/AWDB/intro-to-geojson/sample_geo.json",
+		"/C/Users/rchwr/Downloads/AWDB/intro-to-geojson/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/intro-to-geojson/index.html",
+		"/C/Users/rchwr/Downloads/AWDB/d3 exercise/style.css",
+		"/C/Users/rchwr/Downloads/AWDB/scatterplots/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/pie-chart-exercise/pie_chart_exercise/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/histogram-exercise-solution/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/d3 exercise/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/d3 exercise/index.html",
+		"/C/Users/rchwr/Downloads/AWDB/histogram-exercise/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/d3 exercise/data/lending/API_FR.INR.LEND_DS2_en_csv_v2_9987003.csv",
+		"/C/Users/rchwr/Downloads/AWDB/managing-async/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/scatterplots/birthData2011.js",
+		"/C/Users/rchwr/Downloads/AWDB/d3 exercise/data/deposit/API_FR.INR.DPST_DS2_en_csv_v2_9987004.csv",
+		"/C/Users/rchwr/Downloads/AWDB/d3 exercise/data/deposit/API_FR.INR.LEND_DS2_en_csv_v2_9987003.csv",
+		"/C/Users/rchwr/AppData/Local/Temp/Temp1_API_EG.ELC.ACCS.ZS_DS2_en_csv_v2_9985519.zip/API_EG.ELC.ACCS.ZS_DS2_en_csv_v2_9985519.csv",
+		"/C/Users/rchwr/Downloads/API_FR.INR.LEND_DS2_en_csv_v2_9987003/API_FR.INR.LEND_DS2_en_csv_v2_9987003.csv",
+		"/C/Users/rchwr/Downloads/AWDB/managing-async/simplemaps-worldcities-basic.csv",
+		"/C/Users/rchwr/Downloads/AWDB/d3 exercise/deposit_data.csv",
+		"/C/Users/rchwr/Downloads/AWDB/d3 exercise/API_FR.INR.DPST_DS2_en_csv_v2_9987004.csv",
+		"/C/Users/rchwr/Downloads/AWDB/d3 exercise/Metadata_Indicator_API_FR.INR.DPST_DS2_en_csv_v2_9987004.csv",
+		"/C/Users/rchwr/Downloads/AWDB/d3 exercise/Metadata_Country_API_FR.INR.DPST_DS2_en_csv_v2_9987004.csv",
+		"/C/Users/rchwr/Downloads/AWDB/d3-and-svg/index.html",
+		"/C/Users/rchwr/Downloads/UNdata_Export_20180720_142753404/UNdata_Export_20180720_142753404.xml",
+		"/C/Users/rchwr/Downloads/AWDB/managing-async/countries.json",
+		"/C/Users/rchwr/Downloads/AWDB/managing-async/index.html",
+		"/C/Users/rchwr/Downloads/AWDB/transitions/birthData.js",
+		"/C/Users/rchwr/Downloads/AWDB/transitions/style.css",
+		"/C/Users/rchwr/Downloads/AWDB/transitions/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/transitions/index.html",
+		"/C/Users/rchwr/Downloads/AWDB/tooltips/d3-tooltips/birthData2011.js",
+		"/C/Users/rchwr/Downloads/AWDB/tooltips/d3-tooltips/style.css",
+		"/C/Users/rchwr/Downloads/AWDB/tooltips/d3-tooltips/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/tooltips/d3-tooltips/index.html",
+		"/C/Users/rchwr/Downloads/AWDB/pie-chart-exercise/pie_chart_exercise/birthData.js",
+		"/C/Users/rchwr/Downloads/AWDB/pie-chart-exercise/pie_chart_exercise/style.css",
+		"/C/Users/rchwr/Downloads/AWDB/pie-chart-exercise/pie_chart_exercise/index.html",
+		"/C/Users/rchwr/Downloads/AWDB/pie-charts-continued/d3-pie-chart/birthData.js",
+		"/C/Users/rchwr/Downloads/AWDB/pie-charts-continued/d3-pie-chart/style.css",
+		"/C/Users/rchwr/Downloads/AWDB/pie-charts-continued/d3-pie-chart/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/pie-charts-continued/d3-pie-chart/index.html",
+		"/C/Users/rchwr/Downloads/AWDB/pie-charts/d3-pie-chart/birthData.js",
+		"/C/Users/rchwr/Downloads/AWDB/pie-charts/d3-pie-chart/style.css",
+		"/C/Users/rchwr/Downloads/AWDB/pie-charts/d3-pie-chart/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/pie-charts/d3-pie-chart/index.html",
+		"/C/Users/rchwr/Downloads/AWDB/histogram-exercise/style.css",
+		"/C/Users/rchwr/Downloads/AWDB/histogram-exercise/index.html",
+		"/C/Users/rchwr/Downloads/AWDB/histogram-exercise/regionData.js",
+		"/C/Users/rchwr/Downloads/AWDB/scatterplot-exercise/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/histogram-starter-code/app.js",
+		"/C/Users/rchwr/Downloads/AWDB/histogram-starter-code/style.css",
+		"/C/Users/rchwr/Downloads/histogram-exercise/regionData.js",
+		"/C/Users/rchwr/Downloads/histogram-exercise/style.css",
+		"/C/Users/rchwr/Downloads/histogram-exercise/app.js",
+		"/C/Users/rchwr/Downloads/histogram-exercise/index.html",
+		"/C/Users/rchwr/Downloads/histogram-starter-code/birthData.js",
+		"/C/Users/rchwr/Downloads/histogram-starter-code/app.js",
+		"/C/Users/rchwr/Downloads/histogram-starter-code/style.css",
+		"/C/Users/rchwr/Downloads/histogram-starter-code/index.html",
+		"/D/Repos/JavaScript30/JavaScript30-master/30 - Whack A Mole/style.css",
+		"/D/Repos/JavaScript30/JavaScript30-master/30 - Whack A Mole/index-START.html",
+		"/D/Repos/JavaScript30/JavaScript30-master/29 - Countdown Timer/style.css",
+		"/D/Repos/JavaScript30/JavaScript30-master/29 - Countdown Timer/scripts-START.js",
+		"/D/Repos/JavaScript30/JavaScript30-master/29 - Countdown Timer/index.html",
+		"/D/Repos/JavaScript30/JavaScript30-master/27 - Click and Drag/index-START.html",
+		"/D/Repos/JavaScript30/JavaScript30-master/28 - Video Speed Controller/index-START.html",
+		"/D/Repos/JavaScript30/JavaScript30-master/28 - Video Speed Controller/style.css",
+		"/C/Users/rchwr/Downloads/scatterplot-exercise/style.css",
+		"/C/Users/rchwr/Downloads/scatterplot-exercise/regionData.js",
+		"/C/Users/rchwr/Downloads/scatterplot-exercise/app.js",
+		"/C/Users/rchwr/Downloads/scatterplot-exercise/index.html",
+		"/C/Users/rchwr/Downloads/scatterplots/style.css",
+		"/C/Users/rchwr/Downloads/scatterplots/app.js",
+		"/D/Repos/JavaScript30/JavaScript30-master/27 - Click and Drag/style.css",
+		"/D/Repos/JavaScript30/JavaScript30-master/26 - Stripe Follow Along Nav/index-START.html",
+		"/D/Repos/JavaScript30/JavaScript30-master/25 - Event Capture, Propagation, Bubbling and Once/index-START.html",
+		"/D/Repos/JavaScript30/JavaScript30-master/24 - Sticky Nav/style-START.css",
+		"/D/Repos/JavaScript30/JavaScript30-master/24 - Sticky Nav/index-START.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"repo",
+				"D:\\Repos\\DiscordBot2\\DiscordBot2\\Program.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
